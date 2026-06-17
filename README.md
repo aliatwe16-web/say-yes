@@ -1,4 +1,4 @@
-# 💖 Mako Dinner Invitation Website
+# 💖  Dinner Invitation Website
 
 A fun, playful, and romantic single-page website inviting Mako to dinner ❤️
 
